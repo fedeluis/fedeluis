@@ -1,3 +1,3 @@
 # 👋 Hi, I’m Federico
 
-I'm a Computer Engineer that loves all kind of technology.
+I'm a MSc Computer Engineer student that loves all kind of technology.
